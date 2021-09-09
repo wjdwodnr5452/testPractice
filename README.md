@@ -17,6 +17,7 @@ _스터디_ 분들과 열심히 그리고 __재밌게__ 연습해봤습니다.
 
 ![데체텍스트](http://file2.nocutnews.co.kr/newsroom/image/2019/11/19/20191119092356684958_0_768_768.jpg)
 
+![ㅇㅇ](https://mblogthumb-phinf.pstatic.net/MjAxOTAzMDZfOTUg/MDAxNTUxODQyNTE2NjU2.V72749bgR3O75N4CJ7BXdujZ92A4Y0h1VaHRzvDlzegg.rPtB9OkBLNDV9cFxd6WEY7UOE0CEaQTo2yXugUFQy_4g.JPEG.yingbbang/1551804817469.jpg?type=w800)
 ![CSS](https://storage.googleapis.com/jjalbot-jjals/2019/01/qSZ8Y8HNcl/R5djHzs9n.gif)
 
 # 영은님 선물이에요
